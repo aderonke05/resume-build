@@ -1,0 +1,38 @@
+.form-section{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.top-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    margin:2px 0px 20px 0px;
+    padding: 8px 10px;
+    width: 50vw;
+}
+
+textarea{
+    width: 50vw;
+}
+
+button{
+    color: white;
+    background: rgb(18, 4, 113);
+    padding:8px 16px;
+    border: none;
+}
+
+img{
+    width:30px;
+}
+
+.consent{
+    width:10px;
+    margin-right: 20px;
+}
